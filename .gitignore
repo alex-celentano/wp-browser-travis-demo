@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 *.pyc
+=======
+codeception.yml
+tests/codeception/_output/
+tests/codeception/_support/_generated/
+vendor/
+>>>>>>> 4dfa3a3bcc6c11dcce016f67c56480236671a49e
